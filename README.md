@@ -27,6 +27,7 @@ Luego cierra y reabre PowerShell como Admin, y vuelve a intentar:
 cd "C:\Program Files\RabbitMQ Server\rabbitmq_server-4.1.0\sbin"
 .\rabbitmq-service.bat install
 .\rabbitmq-service.bat start
+.\rabbitmq-service.bat stop
 ```
 
 Open:
